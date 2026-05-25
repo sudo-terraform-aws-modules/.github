@@ -1,13 +1,24 @@
-<!--
+# SUDO Consultants - Open Source Terraform AWS Modules
 
-**Here are some ideas to get you started:**
+## Terraform Module Repositories
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-## Welcome to SUDO Terraform AWS modules
+### AWS-Specific Modules
 
-These modules are developed keeping security first approach as part of SUDO's commitment to making cloud more secure.
+**Repository:** [sudo-terraform-aws-modules](https://github.com/sudo-terraform-aws-modules)
+
+Terraform modules specifically designed for Amazon Web Services infrastructure.
+
+### General Terraform Modules
+
+**Repository:** [sudo-terraform-modules](https://github.com/sudo-Terraform-Modules)
+
+Open source Terraform modules for multi-cloud deployments and common infrastructure patterns.
+
+## Open Source Commitment
+
+All modules in this organization are published under open source licenses to support the broader infrastructure automation community. We believe in:
+
+- Transparent and accessible infrastructure code
+- Community-driven development and feedback
+- Shared knowledge and best practices
+- Collaborative improvement of cloud automation tools
