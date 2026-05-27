@@ -1,5 +1,7 @@
 # SUDO Consultants - Open Source Terraform AWS Modules
 
+<img width="10772" height="3400" alt="sudo-aws" src="https://github.com/user-attachments/assets/f7044ff9-afce-4811-91c6-2f3c95635abb" />
+
 ## Terraform Module Repositories
 
 ### AWS-Specific Modules
